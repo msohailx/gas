@@ -1,0 +1,2 @@
+# nasm
+stuff about nasm 
